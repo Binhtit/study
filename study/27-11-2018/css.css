@@ -1,0 +1,22 @@
+.menu{
+    background-color: #333;
+    height: 35px;
+    padding: 0;
+    margin: 0;
+}
+.menu ul{
+    list-style-type: none;
+    text-decoration-line: none;
+    padding: 0;
+    margin: 0;
+}
+.menu ul li{
+    display: flex;
+    justify-content: center;
+    
+}
+.menu ul li a{
+    color: white;
+    padding: 5px 20px ;
+    border-left: rgb(131, 126, 126) solid;
+}
